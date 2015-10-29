@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sdf-test.dir/src/main.cpp.o CMakeFiles/sdf-test.dir/src/window.cpp.o CMakeFiles/sdf-test.dir/src/render.cpp.o CMakeFiles/sdf-test.dir/src/sdfshape.cpp.o  -o sdf-test -rdynamic -lSDL2 -lpthread 
